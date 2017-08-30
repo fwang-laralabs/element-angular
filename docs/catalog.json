@@ -13,9 +13,6 @@
   }, {
     "name": "自定义主题",
     "link": "/guide/theme"
-  }, {
-    "name": "Angular 动画",
-    "link": "/guide/transition"
   }],
   "name": "开发指南",
   "link": null
@@ -83,6 +80,13 @@
     }, {
       "name": "progress 进度条",
       "link": "/data/progress"
+    }]
+  }, {
+    "name": "Notice",
+    "link": null,
+    "children": [{
+      "name": "loading 加载",
+      "link": "/notice/loading"
     }]
   }, {
     "name": "Navigation",
