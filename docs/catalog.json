@@ -71,6 +71,9 @@
       "name": "Switch 开关",
       "link": "/form/switch"
     }, {
+      "name": "DatePicker 日期选择器",
+      "link": "/form/date-picker"
+    }, {
       "name": "Rate 评分",
       "link": "/form/rate"
     }]
@@ -106,6 +109,9 @@
     "children": [{
       "name": "Nav-menu 导航菜单",
       "link": "/nav/menu"
+    }, {
+      "name": "Breadcrumb 面包屑",
+      "link": "/nav/breadcrumb"
     }, {
       "name": "Steps 步骤条",
       "link": "/nav/steps"
