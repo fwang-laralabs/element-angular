@@ -131,6 +131,15 @@
     }, {
       "name": "Card 卡片",
       "link": "/others/card"
+    }, {
+      "name": "Dialog 对话框",
+      "link": "/others/dialog"
+    }, {
+      "name": "Carousel 走马灯",
+      "link": "/others/carousel"
+    }, {
+      "name": "Collapse 折叠面板",
+      "link": "/others/collapse"
     }]
   }]
 }]
